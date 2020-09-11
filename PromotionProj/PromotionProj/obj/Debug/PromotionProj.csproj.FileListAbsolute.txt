@@ -1,0 +1,8 @@
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\bin\Debug\PromotionProj.exe
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\bin\Debug\PromotionProj.pdb
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\obj\Debug\PromotionProj.csprojAssemblyReference.cache
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\obj\Debug\PromotionProj.MainWindow.resources
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\obj\Debug\PromotionProj.Properties.Resources.resources
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\obj\Debug\PromotionProj.csproj.GenerateResource.cache
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\obj\Debug\PromotionProj.exe
+C:\Apps\Syam\PromotionProj\PromotionProj\PromotionProj\obj\Debug\PromotionProj.pdb
